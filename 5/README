@@ -1,0 +1,5 @@
+File processing - implementing  a flexible framework for working with files
+the program filters the files in a given directory according to various conditions, and orders the filenames
+that passed the filtering according to various properties
+using - Exceptions mechanism,  directories and directory structures, file attributes, 
+design principles and design patterns
