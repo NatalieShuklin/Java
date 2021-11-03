@@ -1,0 +1,3 @@
+Implemented a Simplified Java Verifier - a tool able to verify the validity of Java
+code; it knows how to read Java code and determine its validity.
+Designed & implemented a complex system, using regex, Exceptions mechanism, OOP concepts.
